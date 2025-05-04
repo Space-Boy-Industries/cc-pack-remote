@@ -6,6 +6,6 @@ return {
 	base_path = "https://raw.githubusercontent.com/James-Dumas/cctracker/refs/heads/master",
 	-- key is remote path, value is local path
 	file_map = {
-		["cctracker.lua"] = "/bin/cctracker.lua",
+		["/cctracker.lua"] = "/bin/cctracker.lua",
 	},
 }
