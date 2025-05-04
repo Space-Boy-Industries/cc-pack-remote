@@ -1,4 +1,5 @@
 # cc-pack-remote
+Default remote source for (cc-pack)[https://github.com/foopis23/cc-pack]
 
 ## Add
 ```
